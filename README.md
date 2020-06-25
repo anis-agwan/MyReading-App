@@ -1,4 +1,4 @@
-# MyReads Project
+# MyReading-App Project
 
 This React App is the final assessment project for Udacity's React Fundamentals course. 
 
