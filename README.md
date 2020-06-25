@@ -1,6 +1,6 @@
 # MyReading-App Project
 
-This React App is the final assessment project for Udacity's React Fundamentals course. 
+This React App is a project for Udacity's React Nanodegree. 
 
 ## About the App
 The project was started with a template providing a static example of the CSS and HTML markup that was needed, but without any of the React code that was needed to complete the project. I aimed to add interactivity to the app by refactoring the static code in the template.
