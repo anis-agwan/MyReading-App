@@ -1,6 +1,6 @@
-# MyReading-App Project
+# MyReads-App Project
 
-This React App is a project for Udacity's React Nanodegree. 
+This is a React bookshelf app. It allows us to categorize the books by adding them to 3 different shelfes, which are Currrently Reading, Want To Read and Read. It has a home page, where a user can see all the shelfs and a serach page to search books and add them to the shelfs a user want to.
 
 ## About the App
 The project was started with a template providing a static example of the CSS and HTML markup that was needed, but without any of the React code that was needed to complete the project. I aimed to add interactivity to the app by refactoring the static code in the template.
