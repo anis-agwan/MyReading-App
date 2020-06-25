@@ -3,15 +3,15 @@
 This React App is the final assessment project for Udacity's React Fundamentals course. 
 
 ## About the App
-The project was kickstarted with a template is to time by providing a static example of the CSS and HTML markup that was needed, but without any of the React code that was needed to complete the project. My goal was to add interactivity to the app by refactoring the static code in the template.
+The project was started with a template providing a static example of the CSS and HTML markup that was needed, but without any of the React code that was needed to complete the project. I aimed to add interactivity to the app by refactoring the static code in the template.
 
-It is a simple cataloging app that allows you to place books in one of three shelves or categories.
+It is an uncomplicated book catalog app that enables you to store books in one of three shelves or categories.
 
 * Currently Reading
 * Want to Read
 * Read
 
-It also allows you to search for books based on title and author.
+It furthermore allows you to seek for books based on title and author.
 
 ## Getting started with the app:
 
@@ -39,12 +39,12 @@ It also allows you to search for books based on title and author.
     │   ├── arrow-back.svg
     │   └── arrow-drop-down.svg
     ├── components 
-    │   ├── BookItem.js
-    │   ├── BookList.js
+    │   ├── Book.js
+    │   ├── BookShelf.js
     │  
     ├── pages 
-    │   ├── AddBooksPage.js
-    │   ├── HomePage.js
+    │   ├── Search.js
+    │   ├── Home.js
     │   
     ├── index.css # Global styles.
     └── index.js # Used for DOM rendering only.
