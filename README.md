@@ -15,7 +15,7 @@ It furthermore allows you to seek for books based on title and author.
 
 ## Getting started with the app:
 
-* Clone the app `git clone https://github.com/Ezeebube5/myreads-react-app.git`
+* Clone the app `git clone https://github.com/anis-agwan/MyReading-App.git`
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 * Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
