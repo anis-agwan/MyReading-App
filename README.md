@@ -1,5 +1,8 @@
 # MyReads-App Project
 
+You can find the app live here
+## https://zealous-bell-ca2d30.netlify.app/
+
 This is a React bookshelf app. It allows us to categorize the books by adding them to 3 different shelfes, which are Currrently Reading, Want To Read and Read. It has a home page, where a user can see all the shelfs and a serach page to search books and add them to the shelfs a user want to.
 
 ## About the App
