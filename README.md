@@ -69,6 +69,5 @@ The backend API uses a fixed set of cached search results and is limited to a pa
 ## Tech Stack Used:
 * React.js
 * React Router
-* Udacity API
 * [Create React App](https://github.com/facebookincubator/create-react-app). You can find more information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
